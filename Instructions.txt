@@ -1,0 +1,10 @@
+Please refer the README.md file for the instructions to run this app.
+
+Implementation & Function Behaviour
+1. This has been implemented in ReactJS (via npm).
+2. Running this application will read the csv file mentioned at the public folder of this project.
+3. It will read that data, parse and store it on localstorage.
+4. There is a search functionality where the data will be filtered for every field.
+5. The pagination will take you to the nth page.
+6. Clicking on the Year column's header will sort the data accordingly.
+7. Screenshots are attached to the project under the screenshots folder.
